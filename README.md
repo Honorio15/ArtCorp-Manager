@@ -61,6 +61,7 @@ Sistema completo de gerenciamento desenvolvido especialmente para estúdios de e
 ```bash
 git clone https://github.com/seuusuario/sistema-estudio-lg.git
 cd sistema-estudio-lg
+```
 
 ## 📜 Licença
 
