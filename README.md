@@ -1,4 +1,4 @@
-# 🎨 Sistema de Gerenciamento - Estúdio Larissa Gouveia
+# 🖊️ Sistema de Gerenciamento - Estúdio Larissa Gouveia
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
