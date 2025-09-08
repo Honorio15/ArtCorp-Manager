@@ -2,8 +2,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green" alt="Status">
-  <img src="https://img.shields.io/badge/Licença-MIT-yellow" alt="License">
+  <img src="https://img.shields.io/badge/Status-Em%20Produção-green" alt="Status">
+  <img src="https://img.shields.io/badge/Licença-Proprietária-red" alt="License">
+  <img src="https://img.shields.io/badge/Uso_Comercial-Licenciamento_Obrigatório-orange" alt="Commercial Use">
+  <img src="https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey" alt="Platform">
 </p>
 
 Sistema completo de gerenciamento desenvolvido especialmente para estúdios de estética, com foco em piercings, furo humanizado e procedimentos estéticos.
