@@ -47,7 +47,7 @@ Sistema completo de gerenciamento desenvolvido especialmente para estúdios de e
 
 | Gestão de Clientes | Configurações |
 |-------------------|---------------|
-| ![Clientes](https://via.placeholder.com/400x250/FF69B4/FFFFFF?text=Gestão+de+Clientes) | ![Config](https://via.placeholder.com/400x250/FFC0CB/000000?text=Configurações) |
+| ![Clientes](images/screenshot-clientes.png) | ![Config](https://via.placeholder.com/400x250/FFC0CB/000000?text=Configurações) |
 
 ## 🚀 Como Executar o Sistema
 
