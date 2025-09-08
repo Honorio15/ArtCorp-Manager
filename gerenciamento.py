@@ -1339,3 +1339,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+  """
+Sistema de Gerenciamento - Estúdio Larissa Gouveia
+Copyright (C) 2024 Hilton Honorio Neto. Todos os direitos reservados.
+
+Este software é disponibilizado apenas para fins educacionais.
+É estritamente proibida a utilização comercial sem licença expressa.
+
+Para licenciamento comercial: honoriohneto@gmail.com
+"""
