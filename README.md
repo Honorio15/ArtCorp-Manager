@@ -61,3 +61,23 @@ Sistema completo de gerenciamento desenvolvido especialmente para estúdios de e
 ```bash
 git clone https://github.com/seuusuario/sistema-estudio-lg.git
 cd sistema-estudio-lg
+
+## 📜 Licença
+
+Este software é disponibilizado **apenas para fins educacionais e de estudo**.
+
+### ✅ Permitido:
+- Estudar e aprender com o código
+- Uso pessoal não-comercial
+
+### ❌ Estritamente Proibido:
+- Venda, distribuição comercial ou licenciamento
+- Uso em produtos ou serviços comerciais
+- Redistribuição como produto próprio
+
+### 💼 Licenciamento Comercial:
+Para uso comercial, entre em contato para adquirir uma licença:
+- **Email**: honoriohneto@gmail.com
+- **Valor**: Sob consulta
+
+**Infrações serão tratadas judicialmente conforme Lei 9.610/98.**
